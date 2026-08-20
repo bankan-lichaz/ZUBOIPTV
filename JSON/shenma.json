@@ -1,0 +1,9 @@
+{
+"主页url":"https://www.n4yy.com/",
+
+"分类":"电影&剧集&综艺&动漫&经典片",
+"分类值": "1&2&3&4&19",
+"分类url":"https://www.n4yy.com/type/{cateId}.html",
+ "筛选":{
+}
+}

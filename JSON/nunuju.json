@@ -1,0 +1,9 @@
+{
+"主页url":"https://nunuju.com/",
+
+"分类":"电影&剧集&综艺&动漫&短剧",
+"分类值": "dianying&dianshiju&zongyi&dongman&duanju",
+"分类url":"https://nunuju.com/vod/type/id/{cateId}.html",
+ "筛选":{
+}
+}
